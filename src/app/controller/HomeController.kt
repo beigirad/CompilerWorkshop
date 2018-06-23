@@ -60,7 +60,7 @@ public class HomeController {
     }
 
     private fun showResult(result: String) {
-        val loader = FXMLLoader(javaClass.getResource("lexical.fxml"))
+        val loader = FXMLLoader(javaClass.getResource("../view/lexical.fxml"))
         val parent = loader.load<Parent>()
 
         val controller = loader.getController<LexicalController>()

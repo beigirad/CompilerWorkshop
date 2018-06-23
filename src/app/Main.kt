@@ -19,7 +19,7 @@ class Main : Application() {
     }
 
     override fun start(primaryStage: Stage) {
-        val root = FXMLLoader.load<Parent>(javaClass.getResource("home.fxml"))
+        val root = FXMLLoader.load<Parent>(javaClass.getResource("view/home.fxml"))
         primaryStage.title = "Compiler Workshop"
         primaryStage.scene = Scene(root)
         primaryStage.show()
