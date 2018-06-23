@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.GridPane?>
+<GridPane fx:controller="app.controller.LexicalController"
+          xmlns:fx="http://javafx.com/fxml" alignment="center" hgap="10" vgap="10">
+    <padding>
+        <Insets top="25" right="25" bottom="25" left="25"/>
+    </padding>
+
+    <ScrollPane>
+
+        <TextArea fx:id="lexicalArea" editable="false" promptText="Paste your code..."
+                  prefHeight="600" prefWidth="400"
+                  GridPane.columnIndex="0" GridPane.rowIndex="1"/>
+
+    </ScrollPane>
+</GridPane>
