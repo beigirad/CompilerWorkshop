@@ -1,10 +1,10 @@
 # JavaCompiler by Kotlin :)
 
-This repository contains the source code of an incomplete Java Compiler that just has first step of compiling steps and proudly written in Kotlin Language.
+This repository contains the source code of an **INCOMPLETE** Java Compiler just has first step of compiling steps, and proudly written in Kotlin Language.
 
 
 #   Features
-1.  Detects 40 ** Token Type **
+1.  Detects 40 **Token Type**
 1.  Simple coding
 1.  Written in Kotlin language
 1.  Used [JavaFx][1] for creating GUI
@@ -15,11 +15,11 @@ This repository contains the source code of an incomplete Java Compiler that jus
 #   ScreenShot
 <img src="shot/01.png" width="400px" height="auto">
 <img src="shot/02.png" width="400px" height="auto">
-<img src="shot/03.png" width="200px" height="auto">
+<img src="shot/03.png" width="400px" height="auto">
 
 
 #   License
-Copyright 2018 Farhad Beigirad
+Copyright 2018 [Farhad Beigirad][3]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -35,3 +35,4 @@ limitations under the License.
 
 [1]: http://www.oracle.com/technetwork/java/javafx/overview/index.html
 [2]: https://www.jetbrains.com/idea/
+[3]: http://beigirad.ir
