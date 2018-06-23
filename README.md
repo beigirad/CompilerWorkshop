@@ -13,9 +13,9 @@ This repository contains the source code of an incomplete Java Compiler that jus
 
 
 #   ScreenShot
-<img src=[3] width="400px" height="auto">
-<img src=[4] width="400px" height="auto">
-<img src=[5] width="200px" height="auto">
+<img src="shot/01.png" width="400px" height="auto">
+<img src="shot/02.png" width="400px" height="auto">
+<img src="shot/03.png" width="200px" height="auto">
 
 
 #   License
@@ -35,6 +35,3 @@ limitations under the License.
 
 [1]: http://www.oracle.com/technetwork/java/javafx/overview/index.html
 [2]: https://www.jetbrains.com/idea/
-[3]: https://raw.githubusercontent.com/beigirad/CompilerWorkshop/master/shot/01.png
-[4]: https://raw.githubusercontent.com/beigirad/CompilerWorkshop/master/shot/02.png
-[5]: https://raw.githubusercontent.com/beigirad/CompilerWorkshop/master/shot/03.png
